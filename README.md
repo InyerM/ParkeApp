@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 ParkeAPP es una aplicación de escritorio, creada para llevar el control de las entradas y salidas de vehículos a un parqueadero. 
 Se desea cubrir la necesidad de los establecimientos que ofrecen el servicio de parqueo, para que además del control de ingresos 
 y salidas, conozcan la disponibilidad real de espacios para ele parqueo. Es una aplicación desarrollada desde cero en Python, 
@@ -27,4 +26,4 @@ admin          | 12345
 Inyer          | medina
 Juanda         | 56789
 Felipe         | poo  
--->
+
