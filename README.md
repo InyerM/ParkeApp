@@ -20,14 +20,14 @@ No requiere instalación, carpeta con archivo portable.
 
 USUARIOS REGISTRADOS EN LA APP
 
-Usuario: admin
-Contraseña: 12345
-Usuario: Inyer
-Contraseña: medina
-Usuario: Juanda
-Contraseña: 56789
-Usuario: Felipe
-Contraseña: poo
+- Usuario: admin
+- Contraseña: 12345
+- Usuario: Inyer
+- Contraseña: medina
+- Usuario: Juanda
+- Contraseña: 56789
+- Usuario: Felipe
+- Contraseña: poo
 
 Nota: si se desea ejecutar el proyecto, se debe primero instalar las librerias PyQt6 y PySide2
 
