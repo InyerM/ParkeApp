@@ -7,16 +7,17 @@ con Front-end ensamblado en PyQT6 y PySide2, que incorpora librerías compatible
 
 Definición de funcionalidades
 El proyecto incorpora las siguientes funcionalidades:
-● Ingreso por usuario y contraseña, configurable desde código.
-● Ingreso de vehículo Moto, de alto y bajo cilindraje, con el fin de separar los espacios para cada tipo, teniendo en cuenta el cuidado y responsabilidad de supervisión en motocicletas de alto costo comercial.
-● Ingreso de vehículo Auto, de tipo Camioneta, Clásico y Deportivo, con el fin de establecer diferentes tarifas a cada uno, según su tipo, y llevar control de cada tipo.
-● Ver autos mediante lista desplegable, donde se visualizan todos los vehículos activos, o que están siendo almacenados en el parqueadero.
-● Información en tiempo real de ocupación de lugares en parqueaderos.
+- Ingreso por usuario y contraseña, configurable desde código.
+- Ingreso de vehículo Moto, de alto y bajo cilindraje, con el fin de separar los espacios para cada tipo, teniendo en cuenta el cuidado y responsabilidad de supervisión en motocicletas de alto costo comercial.
+- Ingreso de vehículo Auto, de tipo Camioneta, Clásico y Deportivo, con el fin de establecer diferentes tarifas a cada uno, según su tipo, y llevar control de cada tipo.
+- Ver autos mediante lista desplegable, donde se visualizan todos los vehículos activos, o que están siendo almacenados en el parqueadero.
+- Información en tiempo real de ocupación de lugares en parqueaderos.
+
 Requisitos del sistema:
-● Sistema operativo: Windows 10 (64 Bits)
-Memoria RAM: 2 GB o superior.
-Espacio en Disco: 50Mb o superior.
-No requiere instalación, carpeta con archivo portable.
+- Sistema operativo: Windows 10 (64 Bits)
+- Memoria RAM: 2 GB o superior.
+- Espacio en Disco: 50Mb o superior.
+- No requiere instalación, carpeta con archivo portable.
 
 USUARIOS REGISTRADOS EN LA APP
 
